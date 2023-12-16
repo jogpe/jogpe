@@ -2,7 +2,7 @@
 ##
 
 - 🌱 Atualmente estou estudando desenvolvimento Web.
-- 📖 Terminando o 3º ano do Esino Médio.
+- 🔧 Funcionário Itaú Unibanco.
 - 💬 Jopeh__
 - 🍼 Iniciante no ramo da programação.
 
@@ -26,8 +26,6 @@
 <div style="display: inline_block"><br>
 
 <a href="https://instagram.com/jopeh_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-<a href="https://blogdejope.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a> 
-
   ![Snake animation](https://github.com/jogpe/jogpe/blob/output/github-contribution-grid-snake.svg)
 
 

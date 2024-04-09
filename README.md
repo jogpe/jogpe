@@ -1,16 +1,20 @@
-### Hello👋, I'm Jog!
+## Hello👋, I'm Jog!
+
+
+Estudando desenvolvimento Web. </a>
+
+Funcionário Itaú Unibanco.
+
+
+### Outras redes sociais que você pode me encontrar:
+
+<a href="https://instagram.com/jopeh_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 ##
 
-- 🌱 Atualmente estou estudando desenvolvimento Web.
-- 🔧 Funcionário Itaú Unibanco.
-- 💬 Jopeh__
-- 🍼 Iniciante no ramo da programação.
-
-
-<div align="center">
   <a href="https://github.com/jogpe">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jogpe&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+ <img width="30%" src="https://github-readme-stats.vercel.app/api?username=Jogpe&show_icons=true&theme=tokyonight"/><a>  </a>
+<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jogpe&layout=compact&langs_count=7&theme=tokyonight"/>
+
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,7 +27,6 @@
 
 <div style="display: inline_block"><br>
 
-<a href="https://instagram.com/jopeh_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   ![Snake animation](https://github.com/jogpe/jogpe/blob/output/github-contribution-grid-snake.svg)
 
 

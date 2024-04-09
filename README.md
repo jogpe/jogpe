@@ -12,8 +12,8 @@ Funcionário Itaú Unibanco.
 ##
 
   <a href="https://github.com/jogpe">
- <img width="30%" src="https://github-readme-stats.vercel.app/api?username=Jogpe&show_icons=true&theme=tokyonight"/><a>  </a>
-<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jogpe&layout=compact&langs_count=7&theme=tokyonight"/>
+ <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Jogpe&show_icons=true&ayout=compact&theme=tokyonight"/><a>  </a>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jogpe&layout=compact&langs_count=7&theme=tokyonight"/>
 
 
 <div style="display: inline_block"><br>

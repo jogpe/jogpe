@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://github.com/jogpe">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jogpe&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jogpe&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>

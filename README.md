@@ -17,6 +17,4 @@
 
 ##
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cust5j18j7y88dq6x37c2e64p&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=e3b5d9&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
 </div>

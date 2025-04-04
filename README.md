@@ -2,7 +2,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/jopeh_)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-167434251/)
 
-  - 💬 My name is João Pedro, I'm 0 years old and I'm immersed in the world of programming. I'm currently studying at college, focused on DevOps, an area that fascinates me due to its integration between software development and IT operations.
+  - 💬 My name is João Pedro, I'm 20 years old and I'm immersed in the world of programming. I'm currently studying at college, focused on DevOps, an area that fascinates me due to its integration between software development and IT operations.
 
 <h3> my stats 
 <div style="display: inline_block"><br>
